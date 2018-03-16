@@ -102,3 +102,9 @@ typings/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+#
+# Sketch Up ===================================================
+#
+
+*.skb
